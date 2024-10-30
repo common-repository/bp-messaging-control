@@ -1,0 +1,285 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"Project-Id-Version: BP Messaging Control\n"
+"POT-Creation-Date: 2021-01-07 14:34+0000\n"
+"PO-Revision-Date: 2021-01-07 14:34+0000\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.4.2\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-Flags-xgettext: --add-comments=translators:\n"
+"X-Poedit-WPHeader: bp-messaging-control-loader.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.min.js\n"
+
+#: admin/bp-messaging-control-admin.php:82
+msgid "Messaging disabled"
+msgstr ""
+
+#: admin/bp-messaging-control-admin.php:83
+msgid "Message Site Admin only"
+msgstr ""
+
+#: admin/bp-messaging-control-admin.php:84
+msgid "Reply only to other site users"
+msgstr ""
+
+#: admin/bp-messaging-control-admin.php:85
+msgid "Freely message all site users"
+msgstr ""
+
+#: admin/bp-messaging-control-admin.php:93
+msgid "Daily"
+msgstr ""
+
+#: admin/bp-messaging-control-admin.php:94
+msgid "Weekly"
+msgstr ""
+
+#: admin/bp-messaging-control-admin.php:95
+msgid "Monthly"
+msgstr ""
+
+#: admin/bp-messaging-control-admin.php:98
+msgid "@Mention all"
+msgstr ""
+
+#: admin/bp-messaging-control-admin.php:99
+msgid "@Mention admin only"
+msgstr ""
+
+#: admin/bp-messaging-control-admin.php:100
+msgid "@mention as reply only"
+msgstr ""
+
+#: admin/bp-messaging-control-admin.php:101
+msgid "@Mentions disabled"
+msgstr ""
+
+#: admin/bp-messaging-control-admin.php:105
+msgid "Messaging Control Settings"
+msgstr ""
+
+#: admin/bp-messaging-control-admin.php:107
+msgid ""
+"Here you can manage Private Messaging and Public Messaging ( Activity "
+"Updates, @Mentions )"
+msgstr ""
+
+#: admin/bp-messaging-control-admin.php:109
+msgid "Settings Updated."
+msgstr ""
+
+#: admin/bp-messaging-control-admin.php:117
+msgid "Private Messaging Role Restrictions"
+msgstr ""
+
+#: admin/bp-messaging-control-admin.php:119
+msgid "Here you can set the general restrictions on private messages per role"
+msgstr ""
+
+#: admin/bp-messaging-control-admin.php:130
+#: admin/bp-messaging-control-admin.php:276
+msgid " can "
+msgstr ""
+
+#: admin/bp-messaging-control-admin.php:150
+msgid "Private Message Character Length Restrictions"
+msgstr ""
+
+#: admin/bp-messaging-control-admin.php:152
+#: admin/bp-messaging-control-admin.php:298
+msgid "Here you can set a limit for the maximum number of characters"
+msgstr ""
+
+#: admin/bp-messaging-control-admin.php:154
+msgid "for each message."
+msgstr ""
+
+#: admin/bp-messaging-control-admin.php:165
+#: admin/bp-messaging-control-admin.php:311
+msgid " is limited to "
+msgstr ""
+
+#: admin/bp-messaging-control-admin.php:177
+#: admin/bp-messaging-control-admin.php:323
+msgid " characters"
+msgstr ""
+
+#: admin/bp-messaging-control-admin.php:187
+msgid "Private Messaging Quota Restrictions"
+msgstr ""
+
+#: admin/bp-messaging-control-admin.php:189
+#: admin/bp-messaging-control-admin.php:335
+msgid "Here you can set a per role quota."
+msgstr ""
+
+#: admin/bp-messaging-control-admin.php:191
+#: admin/bp-messaging-control-admin.php:337
+msgid ""
+"So even if a user can freely message all users in the general role "
+"restrictions"
+msgstr ""
+
+#: admin/bp-messaging-control-admin.php:193
+#: admin/bp-messaging-control-admin.php:339
+msgid "they would be limited to their quota."
+msgstr ""
+
+#: admin/bp-messaging-control-admin.php:204
+msgid " private message quota "
+msgstr ""
+
+#: admin/bp-messaging-control-admin.php:222
+#: admin/bp-messaging-control-admin.php:368
+msgid "Apply quota restrictions over which time period?"
+msgstr ""
+
+#: admin/bp-messaging-control-admin.php:235
+msgid "New Message Notification emails"
+msgstr ""
+
+#: admin/bp-messaging-control-admin.php:237
+msgid ""
+"The default is to include the full message content in the notification email"
+msgstr ""
+
+#: admin/bp-messaging-control-admin.php:238
+msgid ""
+"This option allows you to choose the length of the message content that is "
+"sent."
+msgstr ""
+
+#: admin/bp-messaging-control-admin.php:259
+msgid "Public Messaging Role Restrictions"
+msgstr ""
+
+#: admin/bp-messaging-control-admin.php:261
+msgid "Public Messages happen when a user @mentions them in an activity stream"
+msgstr ""
+
+#: admin/bp-messaging-control-admin.php:263
+msgid ""
+"The mentioned user gets a notification and an email with the ntification."
+msgstr ""
+
+#: admin/bp-messaging-control-admin.php:265
+msgid "Here you can set the general restrictions per role"
+msgstr ""
+
+#: admin/bp-messaging-control-admin.php:296
+msgid "Public Message Character Length Restrictions"
+msgstr ""
+
+#: admin/bp-messaging-control-admin.php:300
+msgid "for each activity update and comment."
+msgstr ""
+
+#: admin/bp-messaging-control-admin.php:333
+msgid "Public Messaging Quota Restrictions"
+msgstr ""
+
+#: admin/bp-messaging-control-admin.php:350
+msgid " public message quota "
+msgstr ""
+
+#: admin/bp-messaging-control-admin.php:381
+msgid "usermessage token length"
+msgstr ""
+
+#: admin/bp-messaging-control-admin.php:383
+msgid ""
+"The usermessage token is used to insert content into the public message "
+"notification email"
+msgstr ""
+
+#: admin/bp-messaging-control-admin.php:385
+msgid ""
+"You will see it used in the Emails admin page, where it is used to represent "
+"the email content."
+msgstr ""
+
+#: admin/bp-messaging-control-admin.php:387
+msgid ""
+"This option allows you set a limit on the size of this so that the full "
+"message is not sent in the email."
+msgstr ""
+
+#: bp-messaging-control-loader.php:77 bp-messaging-control-loader.php:88
+msgid "Character Limit: "
+msgstr ""
+
+#: bp-messaging-control-loader.php:112
+msgid "Messaging Control Admin"
+msgstr ""
+
+#: bp-messaging-control-loader.php:112
+msgid "Messaging Control"
+msgstr ""
+
+#: bp-messaging-control-loader.php:127
+msgid "Settings"
+msgstr ""
+
+#: bp-messaging-control.php:688
+msgid "You have unrestricted message length"
+msgstr ""
+
+#: bp-messaging-control.php:691
+#, php-format
+msgid "Your messages are limited to %d characters."
+msgstr ""
+
+#: bp-messaging-control.php:695
+msgid "You can only message the site administrator, "
+msgstr ""
+
+#: bp-messaging-control.php:697
+msgid ""
+"Your messaging is set to Reply Only, you can only message users who have "
+"previously sent you a message"
+msgstr ""
+
+#: bp-messaging-control.php:699
+msgid ""
+"Your messaging is set to Reply Only, you can only message users who have "
+"previously sent you a message, in addition you are only able to send another "
+msgstr ""
+
+#: bp-messaging-control.php:699 bp-messaging-control.php:701
+msgid " messages this "
+msgstr ""
+
+#: bp-messaging-control.php:701
+msgid "Your messaging is capped, you can send a further "
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+msgid "BP Messaging Control"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+msgid "https://wordpress.org/plugins/bp-messaging-control/"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid "Restrict private messaging - By user role, apply quota's."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Venutius"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "http://buddyuser.com"
+msgstr ""
